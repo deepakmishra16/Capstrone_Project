@@ -82,9 +82,7 @@ header {
 }
 
 
-
 /* --------------------------------------   Main Content    --------------------------------------------- */
-
 
 
 .main-container {
@@ -445,8 +443,6 @@ input[type="button"] {
 }
 
 
-
-
 .testimonial {
     width: 1344px;
     height: 412px;
@@ -604,6 +600,8 @@ input[type="button"] {
     text-decoration-skip-ink: none;
     color: rgba(214, 221, 230, 1);
 }
+
+
 
 
 
